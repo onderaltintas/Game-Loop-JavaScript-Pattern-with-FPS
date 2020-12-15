@@ -12,3 +12,7 @@ Couldn't license with wtfpl but you can do whatever you want to do with codes he
 Got basic part of this link, for further understanding you can read thiz (thanks to whoever wrote this):
 https://gameprogrammingpatterns.com/game-loop.html
 
+You can change the fps just giving desired fps to class.
+
+***To run:***
+Just copy codes and paste it to chrome console. 
